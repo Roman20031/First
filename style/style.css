@@ -11,3 +11,50 @@ body{
     border: 1px solid azure;
     border-radius: 15px;
 }
+
+header{
+    background-color: brown;
+    margin: 0 ;
+    padding: 0 ;
+
+
+}
+
+nav{
+    
+    margin: 0 ;
+    padding: 0 ;
+
+
+}
+
+ul{
+    
+    margin: 0 ;
+    padding: 0 ;
+
+
+}
+
+body{
+    
+    margin: 0 ;
+    padding: 0 ;
+
+
+}
+
+
+
+.nadpis{    
+  background-color: aqua;
+   margin: 0;
+   padding: 0;
+
+
+    }
+
+
+
+
+    
