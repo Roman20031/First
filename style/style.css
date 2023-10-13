@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: aqua;
+    background-color: goldenrod;
 }
 
 .okenko{
@@ -47,14 +47,39 @@ body{
 
 
 .nadpis{    
-  background-color: aqua;
+   background-color: rgb(56, 172, 172);
+   padding: 16px;
+
    margin: 0;
    padding: 0;
-
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 
     }
+.vlozeni{   
+background-color: rgb(114, 143, 206);
+margin: 16px;
+padding: 16px;
+
+}
+
+input{  
+border-top: none;
+border-left: none;
+border-right: none;
+border-bottom: 3px solid red;
+
+background-color: blueviolet;
 
 
 
+}
 
+button{ 
+    padding: 5px;
     
+    background-color: olivedrab;
+    color:burlywood;
+    border-radius: 24px 6px 24px 6px;
+    -moz-border-radius: 24px 6px 24px 6px;
+    -webkit-border-radius: 24px 6px 24px 6px;
+}
